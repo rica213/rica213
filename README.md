@@ -5,7 +5,7 @@
 ## 👨‍💻 About me 
 | General         |:notes::notes::notes::notes::notes: |
 |--------------|:-----:|
-| - 🔭 I’m currently working on Web Applications <br>- 🌱 Learning Data Structures and Algorithms <br>- 💬 Interested in open source <br>- 😄 Pronouns: She/Her <br>|  <a href="https://github.com/rica213/rica213"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  |        
+| - 🔭 I’m currently working on Web Applications <br>- 🌱 Learning Data Structures and Algorithms <br>- 💬 Interested in open source <br>- 😄 Pronouns: She/Her <br>|  <a href="https://github.com/rica213/rica213"><img align="center" width="475" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  |        
 ## :octocat: Github Stats
 
 <p align="left">
