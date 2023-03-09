@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=1e9747&width=435&lines=Hi%2C+I'm+Larissa;Welcome+to+my+profile..."><br>
 </p>
 
-<p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place =)</em><br><br>Should you need any further information, please do not hesitate to contact me.<br>
+<p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place =)</em><br><br>Don't hesitate to contact me if you hold the same conviction as I do.<br>
   <em>📫 My email: 25f5k252l@mozmail.com </em>
   <!--- 📫 send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em> --->
 </p>
