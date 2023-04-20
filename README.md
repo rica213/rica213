@@ -45,8 +45,8 @@
 <p align="center">
 <a href="https://github.com/rica213/TV-Shows"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=TV-SHOWS&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
 <a href="https://github.com/jonas-45/space-travellers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=jonas-45&repo=space-travellers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a>
-<a href="https://github.com/rica213/REST-Countries-API"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="group-project"></a>
-<a href="https://github.com/rica213/insure-landing-page-master"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=insure-landing-page-master&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="group-project"></a>
+<!---<a href="https://github.com/rica213/REST-Countries-API"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="group-project"></a>
+<a href="https://github.com/rica213/insure-landing-page-master"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=insure-landing-page-master&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="group-project"></a>--->
 </p>
 
 <h1 align="center">My vanilla JavaScript Top Projects</h1>
