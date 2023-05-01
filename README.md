@@ -24,9 +24,10 @@
 |--------|--------|--------|
 | ![](https://github-readme-stats.vercel.app/api?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&theme=merko&hide_border=false)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
 
-<p align="center" width="100%">
-
-| 💻 TECH STACK |
+<h2 align="center"> 💻 TECH STACK </h2>
+<p align="center">
+  
+|  |
 |--------|
 | **LANGUAGES** |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
@@ -40,7 +41,7 @@
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) |
 | **OTHER** |
 | ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-</p>
+  </p>
   
   <h1 align="center">
    My Top Group Projects I have contributed to
