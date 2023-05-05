@@ -7,7 +7,7 @@
   <!--- 📫 send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em> --->
 </p>
 
-<h2 align="center"> 👨‍💻 ABOUT ME </h2>
+<h2 align="center"> 🦄 ABOUT ME 🐝</h2>
 
 | General         |:notes::notes::notes::notes::notes: |
 |--------------|:-----:|
