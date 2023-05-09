@@ -83,8 +83,7 @@
 |  |  |
 |--------|--------|
 | <a href="https://github.com/rica213/vite-react-startup-project-template"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=vite-react-startup-project-template&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="vite-react-startup-project-template"></a> | <a href="https://github.com/rica213/ruby-startup-project-template"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=ruby-startup-project-template&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="ruby-startup-template"></a> |
-| <a href="https://github.com/rica213/set-up-webpack"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=set-up-webpack&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="webpack-setup-template"></a> |  | 
-
+| <a href="https://github.com/rica213/set-up-webpack"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=set-up-webpack&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="webpack-setup-template"></a> | <a href="https://github.com/rica213/rails-startup"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=rails-startup&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="rails-startup-template"></a> | 
 </p>
 
 <!---
