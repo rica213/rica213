@@ -10,6 +10,10 @@
   📫 Send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em>
   
 </div>  
+
+<h3 align="center">
+FIND ME ON ↯ 
+</h3>
   
   <div align="center">
   
