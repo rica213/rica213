@@ -3,23 +3,39 @@
 </p>
 
 <p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place =)</em><br><br>Don't hesitate to contact me if you hold the same conviction as I do.<br>
-  <em>📫 My email: 25f5k252l@mozmail.com </em>
-  <!--- 📫 send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em> --->
 </p>
 
-<h2 align="center"> 🦄 ABOUT ME 🐝 <br>
-⊂larielle ⌊arissa Δⓝⓓⓡⓐⓘⓝⓐⓢⓞⓐ
-</h2>
 <div align="center">
+  
+  📫 Send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em>
+  
+</div>  
+  
+  <div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-clarielle) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alc3and) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alc3and)
+  
+</div>
 
-| General Description |
-|--------|
-| current_position: _" Micronaut  🔭 "_,
-current_studies: [_" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "_],
-current_interests: [_" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "_],
-pronouns: _" She/Her  🦄"_,
-socials: [ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-clarielle), [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alc3and), [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alc3and)]
-
+<h2 align="center"> 🦄 ABOUT ME 🐝 <br></h2>
+<h1 align="center">
+⊂larielle ⌊arissa Δⓝⓓⓡⓐⓘⓝⓐⓢⓞⓐ
+</h1>
+<div align="center">
+  
+<div align="left">
+  
+```ruby
+{
+  current_position: " Micronaut  🔭 ",
+  current_studies: [" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "],
+  current_interests: [" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "],
+  pronouns: " She/Her  🦄",
+}
+``` 
+  
+  </div>
+  
 ## **_Where magic comes from ↷_**
 <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>      
   
