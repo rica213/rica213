@@ -14,10 +14,10 @@
 
 | General Description |
 |--------|
-| current_position: " Micronaut  🔭 ",
-current_studies: [" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "],
-interests: [" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "],
-pronouns: " She/Her  🦄",
+| current_position: _" Micronaut  🔭 "_,
+current_studies: [_" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "_],
+current_interests: [_" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "_],
+pronouns: _" She/Her  🦄"_,
 socials: [ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-clarielle), [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alc3and), [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alc3and)]
 
 ## **_Where magic comes from ↷_**
