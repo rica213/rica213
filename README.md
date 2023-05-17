@@ -10,11 +10,20 @@
 <h2 align="center"> 🦄 ABOUT ME 🐝 <br>
 ⊂larielle ⌊arissa Δⓝⓓⓡⓐⓘⓝⓐⓢⓞⓐ
 </h2>
+<div align="center">
 
+| General Description |
+|--------|
+| current_position: " Micronaut  🔭 ",
+current_studies: [" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "],
+interests: [" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "],
+pronouns: " She/Her  🦄",
+socials: [ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-clarielle), [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alc3and), [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alc3and)]
 
-| General         |:notes::notes::notes::notes::notes: |
-|--------------|:-----:|
-| - 🔭 I’m currently a Micronaut <br>- 🌱 Learning Web Development, Data Structures, and Algorithms <br>- 💬 Interested in collaboration <br>- 😄 Pronouns: She/Her <br> - 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larissa-clarielle) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alc3and) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alc3and) |  <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  |     
+## **_Where magic comes from ↷_**
+<a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>      
+  
+</div>
 
 <h2 align="center"> :octocat: GITHUB STATS </h2>
 
@@ -28,7 +37,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&theme=merko&hide_border=false)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
 
 <h2 align="center"> 💻 TECH STACK </h2>
-<p align="center">
+<div align="center">
   
 |  |
 |--------|
@@ -44,7 +53,8 @@
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) |
 | **OTHER** |
 | ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-  </p>
+  
+</div>
   
   <h1 align="center">
    My Top Group Projects I have contributed to
