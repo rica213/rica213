@@ -51,10 +51,21 @@ FIND ME ON ↯
 <img src="https://komarev.com/ghpvc/?username=rica213&style=flat-square&color=1e9747">
 </p>
 
-     
-| General | Streak | Most Used Languages |
-|--------|--------|--------|
-| ![](https://github-readme-stats.vercel.app/api?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&theme=merko&hide_border=false)<br/> | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
+<div align="center">
+
+  | GENERAL | MOST USED LANGUAGES |
+|--------|--------|
+| ![](https://github-readme-stats.vercel.app/api?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rica213&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | 
+
+</div>     
+
+<div align="center">
+  
+  | STREAK |
+|--------|
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&theme=merko&hide_border=false)<br/> | 
+  
+</div>
 
 <h2 align="center"> 💻 TECH STACK </h2>
 <div align="center">
