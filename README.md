@@ -37,8 +37,18 @@ FIND ME ON ↯
   pronouns: " She/Her  🦄",
 }
 ``` 
+</div>
   
-  </div>
+  ## **CREDENTIALS 📜**
+  
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.credential.net/0df80836-25a6-4bd4-bfc3-2fab095da696" target="blank"><img src="./assets/credentials/badge-htmlcss.png" width="100"></a></td>
+    <td align="center"><a href="https://www.credential.net/c4dac11e-f496-4fe5-a9a5-601d246ef8f9#gs.xzi7ju" target="blank"><img src="./assets/credentials/badge-js.png" width="100"></a></td>
+    <td align="center"><a href="https://www.credential.net/6ed41ceb-3dff-49e1-9dcc-bf44e2fcdf10" target="blank"><img src="./assets/credentials/badge-react.png" width="100"></a></td>
+    <td align="center"><a href="https://www.credential.net/7147b19f-fe4e-4879-87aa-8dc314c2f151#gs.xzib8y" target="blank"><img src="./assets/credentials/badge-ruby.png" width="100"></a></td>
+  </tr>
+</table>
   
 ## **_Where magic comes from ↷_**
 <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>      
