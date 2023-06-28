@@ -107,7 +107,7 @@ FIND ME ON ↯
 
 | | |
 |--------|--------|
-| <a href="https://github.com/rica213/TV-Shows"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=TV-SHOWS&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a> | <a href="https://github.com/jonas-45/space-travellers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=jonas-45&repo=space-travellers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | 
+| <a href="https://github.com/rica213/vr-world"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=vr-world&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="full-stack-capstone-project"></a> | <a href="https://github.com/jonas-45/space-travellers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=jonas-45&repo=space-travellers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | 
 
 <!---
 <a href="https://github.com/rica213/TV-Shows"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=TV-SHOWS&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
