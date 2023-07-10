@@ -51,6 +51,14 @@ FIND ME ON ↯
     <td align="center"><a href="https://www.credential.net/7147b19f-fe4e-4879-87aa-8dc314c2f151#gs.xzib8y" target="blank"><img src="./assets/credentials/RoR badge.png" width="100"></a></td>
   </tr>
 </table>
+
+## EXPERIENCES 🤸🤺
+ May 2023 - Present: Part-Time Code Reviewer at **Microverse** 💻 <br/>
+ Jan 2023 - Present: Peer Mentor at **Microverse** 📍 <br>
+ May 2019 - Nov 2022:	Small Business Owner (Beekeeping) 🐝 <br>
+ May 2017 - May 2018:	Freelance English as a Second Language Teacher in China 🔊
+
+ ### _YOU CAN FIND [MY RESUME HERE](https://docs.google.com/document/d/18_vrZ5yUGuTeOvwovZeGMSgDd_bap0SXMrrUMW8a3is/edit?usp=sharing)_
   
 ## **_Where magic comes from ↷_**
 <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>      
