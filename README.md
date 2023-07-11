@@ -83,7 +83,7 @@ FIND ME ON ↯
   
   | STREAK |
 |--------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&theme=merko&hide_border=false)<br/> | 
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&exclude_days=Sun&hide_longest_streak=true&theme=merko&hide_border=false)<br/> | 
   
 </div>
 
