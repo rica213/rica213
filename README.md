@@ -48,7 +48,8 @@ FIND ME ON ↯
     <td align="center"><a href="https://www.credential.net/c4dac11e-f496-4fe5-a9a5-601d246ef8f9#gs.xzi7ju" target="blank"><img src="./assets/credentials/badge-js.png" width="100"></a></td>
     <td align="center"><a href="https://www.credential.net/6ed41ceb-3dff-49e1-9dcc-bf44e2fcdf10" target="blank"><img src="./assets/credentials/badge-react.png" width="100"></a></td>
     <td align="center"><a href="https://www.credential.net/7147b19f-fe4e-4879-87aa-8dc314c2f151#gs.xzib8y" target="blank"><img src="./assets/credentials/badge-ruby.png" width="100"></a></td>
-    <td align="center"><a href="https://www.credential.net/7147b19f-fe4e-4879-87aa-8dc314c2f151#gs.xzib8y" target="blank"><img src="./assets/credentials/RoR badge.png" width="100"></a></td>
+    <td align="center"><a href="https://www.credential.net/829bdb65-5b43-483c-87ce-ca3d64473bd6#gs.2hs46j" target="blank"><img src="./assets/credentials/RoR badge.png" width="100"></a></td>
+    <td align="center"><a href="https://www.credential.net/cf9fcdfc-e03f-4b8c-9d57-5b836cfd1363#gs.2hruze" target="blank"><img src="./assets/credentials/badge-fullstack-capstone.png" width="100"></a></td>
   </tr>
 </table>
 
