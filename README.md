@@ -54,10 +54,14 @@ FIND ME ON ↯
 </table>
 
 ## EXPERIENCES 🤸🤺
- May 2023 - Present: Part-Time Code Reviewer at **Microverse** 💻 <br/>
- Jan 2023 - Present: Peer Mentor at **Microverse** 📍 <br>
- May 2019 - Nov 2022:	Small Business Owner (Beekeeping) 🐝 <br>
- May 2017 - May 2018:	Freelance English as a Second Language Teacher in China 🔊
+
+
+| Timeline | Role |
+|--------|--------|
+| May 2023 - Present | Part-Time Code Reviewer at [**Microverse**](https://www.microverse.org/?grsf=3zrltn) 💻 |
+| Jan 2023 - Present | Peer Mentor at [**Microverse**](https://www.microverse.org/?grsf=3zrltn) 📍 |
+| May 2019 - Nov 2022 | Small Business Owner (Beekeeping) 🐝 |
+| May 2017 - May 2018 | Freelance English as a Second Language Teacher in China 🔊 |
 
  ### _YOU CAN FIND [MY RESUME HERE](https://docs.google.com/document/d/18_vrZ5yUGuTeOvwovZeGMSgDd_bap0SXMrrUMW8a3is/edit?usp=sharing)_
   
