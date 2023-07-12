@@ -82,7 +82,7 @@ FIND ME ON ↯
 
 <div align="center">
   
-  | STREAK |
+  | STREAK _(La consistencia es la clave 🗝 ✊)_|
 |--------|
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=rica213&exclude_days=Sun%2CSat&hide_longest_streak=true&theme=merko&hide_border=false)<br/> | 
   
