@@ -32,7 +32,7 @@ FIND ME ON ↯
 ```ruby
 {
   open_to_work: true,
-  current_position: " Micronaut  🔭 ",
+  current_position: [" Code Reviewer 📝 ", " Micronaut  🔭 "],
   current_studies: [" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "],
   current_interests: [" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "],
   pronouns: " She/Her  🦄",
