@@ -124,30 +124,6 @@ FIND ME ON ↯
 |--------|--------|
 | <a href="https://github.com/rica213/vr-world"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=vr-world&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="full-stack-capstone-project"></a> | <a href="https://github.com/jonas-45/space-travellers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=jonas-45&repo=space-travellers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a> | 
 
-<!---
-<a href="https://github.com/rica213/TV-Shows"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=TV-SHOWS&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-<a href="https://github.com/jonas-45/space-travellers-hub"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=jonas-45&repo=space-travellers-hub&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-group-project"></a>
-<a href="https://github.com/rica213/REST-Countries-API"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=REST-Countries-API&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="group-project"></a>
-<a href="https://github.com/rica213/insure-landing-page-master"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=insure-landing-page-master&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="group-project"></a>
-</p>
-
-
-<h1 align="center">My vanilla JavaScript Top Projects</h1>
-  
-<p align="center">
-<a href="https://github.com/rica213/Leaderboard"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=Leaderboard&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="my-js-project"></a>
-<a href="https://github.com/rica213/awesome-book-es6"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=awesome-book-es6&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="awesome-book-js-project"></a>
-<a href="https://github.com/rica213/to-do-list"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=to-do-list&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="todo-js-project"></a>
-</p>
-
-<h1 align="center">My React Top Projects</h1>
-  
-<p align="center">
-<a href="https://github.com/rica213/investIQ"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=investIQ&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="my-capstone-project"></a>
-<a href="https://github.com/rica213/bookstore"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=bookstore&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-project"></a>
-<a href="https://github.com/rica213/math-magicians"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=rica213&repo=math-magicians&theme=react&bg_color=040f0f&title_color=1e9747&hide_border=true&icon_color=F8D866&º" alt="react-project"></a>
-</p> --->
-
 <h1 align="center">My templates</h1>
 <p align="center">
 
