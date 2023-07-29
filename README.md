@@ -63,7 +63,7 @@ FIND ME ON ↯
 | May 2019 - Nov 2022 | Small Business Owner (Beekeeping) 🐝 |
 | May 2017 - May 2018 | Freelance English as a Second Language Teacher in China 🔊 |
 
- ### YOU CAN FIND [MY RESUME HERE](https://docs.google.com/document/d/1U1TYzgY8xgC7UcOqxsFvtD5zZEnqqocxBftkO_AtmK4/edit?usp=sharing)
+ ### YOU CAN FIND [MY RESUME HERE](https://drive.google.com/file/d/138xKvAXNeFHdG3M3P7d9Nu90YYp-uOHS/view?usp=drive_link)
   
 ## **_Where magic comes from ↷_**
 <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>      
