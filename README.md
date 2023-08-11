@@ -22,7 +22,7 @@ FIND ME ON ↯
   
 </div>
 
-<h2 align="center"> 🦄 ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Vampire.png" alt="Woman Vampire" width="25" height="25" /> <br></h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Gemini.png" alt="Gemini" width="25" height="25" /> ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Female%20Sign.png" alt="Female Sign" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Vampire.png" alt="Woman Vampire" width="25" height="25" /> <br></h2>
 <h1 align="center">
 ⊂larielle ⌊arissa Δⓝⓓⓡⓐⓘⓝⓐⓢⓞⓐ
 </h1>
