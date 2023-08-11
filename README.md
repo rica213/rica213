@@ -1,13 +1,14 @@
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=1e9747&width=435&lines=Hi%2C+I'm+Larissa+🇲🇬;Welcome+to+my+profile..."><br>
 </p>
 
-<p align="center"><em>I am convinced that we can change the world through the power of technology.<br> And I want to be part of those who will make it a better place =)</em><br><br>Don't hesitate to contact me if you hold the same conviction as I do.<br>
+<p align="center"><em>I am convinced that we can change the world through the power of technology.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <br> And I want to be part of those who will make it a better place <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face With Smiling Eyes" width="25" height="25" /></em><br><br>Don't hesitate to contact me if you hold the same conviction as I do. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /><br>
 </p>
 
 <div align="center">
   
-  📫 Send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em>
+  📫 Send me an email at <em>[25f5k252l@mozmail.com](mailto:25f5k252l@mozmail.com)</em> 
   
 </div>  
 
@@ -21,7 +22,7 @@ FIND ME ON ↯
   
 </div>
 
-<h2 align="center"> 🦄 ABOUT ME 🐝 <br></h2>
+<h2 align="center"> 🦄 ABOUT ME <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Vampire.png" alt="Woman Vampire" width="25" height="25" /> <br></h2>
 <h1 align="center">
 ⊂larielle ⌊arissa Δⓝⓓⓡⓐⓘⓝⓐⓢⓞⓐ
 </h1>
@@ -35,7 +36,7 @@ FIND ME ON ↯
   current_position: [" Code Reviewer 📝 ", " Micronaut  🔭 "],
   current_studies: [" Web Development  🌐 ", " Data Structure  📦 ", " Algorithm  🧮 "],
   current_interests: [" Collaboration  🤝🏾 ", " Software Development Best Practices  ➓ "],
-  pronouns: " She/Her  🦄",
+  pronouns: " She/Her 🦄",
 }
 ``` 
 </div>
@@ -53,7 +54,7 @@ FIND ME ON ↯
   </tr>
 </table>
 
-## EXPERIENCES 🤸🤺
+## EXPERIENCES <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" alt="Man Cartwheeling" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="30" height="30" />
 
 
 | Timeline | Role |
@@ -73,7 +74,7 @@ FIND ME ON ↯
 <h2 align="center"> :octocat: GITHUB STATS </h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rica213&style=flat-square&color=1e9747">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /><img src="https://komarev.com/ghpvc/?username=rica213&style=flat-square&color=1e9747">
 </p>
 
 <div align="center">
@@ -92,7 +93,7 @@ FIND ME ON ↯
   
 </div>
 
-<h2 align="center"> 💻 TECH STACK </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="35" height="35" /> TECH STACK </h2>
 <div align="center">
   
 |  |
