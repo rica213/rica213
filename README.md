@@ -51,6 +51,7 @@ FIND ME ON ↯
     <td align="center"><a href="https://www.credential.net/7147b19f-fe4e-4879-87aa-8dc314c2f151#gs.xzib8y" target="blank"><img src="./assets/credentials/badge-ruby.png" width="100"></a></td>
     <td align="center"><a href="https://www.credential.net/829bdb65-5b43-483c-87ce-ca3d64473bd6#gs.2hs46j" target="blank"><img src="./assets/credentials/RoR badge.png" width="100"></a></td>
     <td align="center"><a href="https://www.credential.net/cf9fcdfc-e03f-4b8c-9d57-5b836cfd1363#gs.2hruze" target="blank"><img src="./assets/credentials/badge-fullstack-capstone.png" width="100"></a></td>
+    <td align="center"><a href="https://www.credential.net/bdcce9d0-d53a-4d32-83d3-15a6143b381f#gs.4hudpw" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79286009" width="100"></a></td>
   </tr>
 </table>
 
