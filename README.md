@@ -53,7 +53,7 @@ FIND ME ON ↯
   </tr>
 </table>
 
-## EXPERIENCES <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" alt="Man Cartwheeling" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="30" height="30" />
+<!-- ## EXPERIENCES <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Cartwheeling.png" alt="Man Cartwheeling" width="30" height="30" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" alt="Mage" width="30" height="30" />
 
 
 | Timeline | Role |
@@ -65,6 +65,8 @@ FIND ME ON ↯
     
   
 </div>
+
+-->
 
 <h2 align="center"> :octocat: GITHUB STATS </h2>
 
