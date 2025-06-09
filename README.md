@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&color=1e9747&width=435&lines=Hi%2C+I'm+Larissa+🇲🇬;Welcome+to+my+profile..."><br>
+    <a href="https://clariellelarissa.me" target="blank"><img src="./assets/cl-logo.png" width="100"></a><br>
 </p>
 
 <p align="center"><em>I am convinced that we can change the world through the power of technology.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <br> And I want to be part of those who will make it a better place <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face With Smiling Eyes" width="25" height="25" /></em><br><br>Don't hesitate to contact me if you hold the same conviction as I do. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /><br>
